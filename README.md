@@ -10,8 +10,10 @@
 ![](https://github.com/Tezika/ImageCache/blob/master/Rabbit_Ecape/p3.jpg)
 
 ## 3.Miscellanies<a name="dot"/>
-* `Rabbit`为项目的code源文件，`Rabbit_resources`为项目的CocosStudio资源文件。
-* 游戏存在的问题： 
-  * A*算法的完善化。
-  * 游戏动画的优化，兔子的移动动画等。
-  * 游戏界面的优化。
+*  The folder of `Rabbit` contains the codebase and the folder of `Rabbit_resources` has the file of CocosStudio's resources and art resources.
+* Optimization： 
+  * the algorithm of A start. 
+  * the animation of the whole game. 
+  * a couple of decorated UI elements. 
+ 
+
