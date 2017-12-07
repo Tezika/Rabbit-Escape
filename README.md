@@ -12,7 +12,7 @@
 ## 3.Miscellanies<a name="dot"/>
 *  The folder of `Rabbit` contains the codebase and the folder of `Rabbit_resources` has the file of CocosStudio's resources and art resources.
 * Optimization： 
-  * the algorithm of A start. 
+  * the algorithm of A star. 
   * the animation of the whole game. 
   * a couple of decorated UI elements. 
  
